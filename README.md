@@ -1,5 +1,7 @@
 # CS50's Introduction to Databases with SQL: Coursework Solutions and Final Project
 
+[![Course](https://img.shields.io/badge/Course-CS50%20SQL-blue)](https://cs50.harvard.edu/sql/) [![Language](https://img.shields.io/badge/Language-SQL-orange)]() [![Database](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 This repository contains my solutions for the weekly problem sets and the final project for Harvard University's CS50 Introduction to Databases with SQL course. It demonstrates various concepts learned throughout the course, including database design, SQL querying, constraints, views, indexes, and triggers.
 
@@ -73,3 +75,5 @@ The final project involved designing and implementing a database schema for a co
 
 **➡️ Find the full project details, schema, queries, ER Diagram, and video presentation in the [Final-Project folder](./Final-Project/).**
 *(Make sure to check out the `README.md` within the `Final-Project` folder for a detailed explanation!)*
+
+- **Deva Manikanta Sala**
