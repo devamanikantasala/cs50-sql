@@ -1,4 +1,4 @@
-# CS50 - SQL Coursework's Assignments Solutions
+# CS50 SQL: Coursework's Assignment - Solutions
 
 ## Weekwise Problem sets
 
