@@ -1,58 +1,75 @@
-# CS50 SQL: Coursework's Assignment - Solutions
+# CS50's Introduction to Databases with SQL: Coursework Solutions and Final Project
+
+## Introduction
+This repository contains my solutions for the weekly problem sets and the final project for Harvard University's CS50 Introduction to Databases with SQL course. It demonstrates various concepts learned throughout the course, including database design, SQL querying, constraints, views, indexes, and triggers.
 
 ## Weekwise Problem sets
 
-### [Problem Set - 0](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-0)
+### [Problem Set - 0](./Week-0)
 
-1. [**Cyberchase**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-0/1-cyberchase)
+1. [**Cyberchase**](./Week-0/1-cyberchase)
 
-2. [**36 Views**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-0/2.1-views)
+2. [**36 Views**](./Week-0/2.1-views)
 
-3. [**Normals**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-0/2.2-normals)
+3. [**Normals**](./Week-0/2.2-normals)
 
-4. [**Players**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-0/3-players)
+4. [**Players**](./Week-0/3-players)
 
-### [Problem Set - 1](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-1)
+### [Problem Set - 1](./Week-1)
 
-1. [**"Packages, Please"**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-1/1-packages)
+1. [**"Packages, Please"**](./Week-1/1-packages)
 
-2. [**DESE**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-1/2-dese)
+2. [**DESE**](./Week-1/2-dese)
 
-3. [**Moneyball**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-1/3-moneyball)
+3. [**Moneyball**](./Week-1/3-moneyball)
 
-### [Problem Set - 2](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-2)
+### [Problem Set - 2](./Week-2)
 
-1. [**ATL**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-2/1-atl)
+1. [**ATL**](./Week-2/1-atl)
 
-2. [**Happy to Connect**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-2/2-connect)
+2. [**Happy to Connect**](./Week-2/2-connect)
 
-3. [**Union Square Donuts**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-2/3-donuts)
+3. [**Union Square Donuts**](./Week-2/3-donuts)
 
-### [Problem Set - 3](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-3)
+### [Problem Set - 3](./Week-3)
 
-1. [**Don't Panic!**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-3/1-dont-panic)
+1. [**Don't Panic!**](./Week-3/1-dont-panic)
 
-2. [**Meteorite Cleaning**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-3/2-meteorites)
+2. [**Meteorite Cleaning**](./Week-3/2-meteorites)
 
-### [Problem Set - 4](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-4)
+### [Problem Set - 4](./Week-4)
 
-1. [**Cencus Tracker**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-4/1-cencus)
+1. [**Census Tracker**](./Week-4/1-Census)
 
-2. [**The Private Eye**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-4/2-private)
+2. [**The Private Eye**](./Week-4/2-private)
 
-3. [**Bed and Breakfast**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-4/3-bnb)
+3. [**Bed and Breakfast**](./Week-4/3-bnb)
 
-### [Problem Set - 5](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-5)
+### [Problem Set - 5](./Week-5)
 
-1. [**In a Snap**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-5/1-snap)
+1. [**In a Snap**](./Week-5/1-snap)
 
-2. [**your harvard**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-6/2-harvard)
+2. [**your harvard**](./Week-6/2-harvard)
 
-### [Problem Set - 6](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-6)
+### [Problem Set - 6](./Week-6)
 
-1. [**"Don't Panic!" (Sentimental) in Python or Java**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-6/1-dont-panic-python)
+1. [**"Don't Panic!" (Sentimental) in Python or Java**](./Week-6/1-dont-panic-python)
 
-2. [**From the Deep**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-6/2-deep)
+2. [**From the Deep**](./Week-6/2-deep)
 
-3. [**Happy to Connect (Sentimental)**](https://github.com/devamanikantasala/cs50-sql/tree/main/Week-6/3-sentimental-connect)
+3. [**Happy to Connect (Sentimental)**](./Week-6/3-sentimental-connect)
 
+### [Final Project](./Final-Project)
+
+#### Final Project: Neighbourly - Local Marketplace Support System
+
+The final project involved designing and implementing a database schema for a conceptual local marketplace application.
+
+**Key focus areas:**
+* Designed a relational database schema with appropriate entities and relationships.
+* Focused on data integrity using foreign key constraints, and column constraints.
+* Optimized query performance with `VIEW`s, `INDEX`s, and `TRIGGER`s.	
+* Ensured all the relevant data movements are logged for further analysis.
+
+**➡️ Find the full project details, schema, queries, ER Diagram, and video presentation in the [Final-Project folder](./Final-Project/).**
+*(Make sure to check out the `README.md` within the `Final-Project` folder for a detailed explanation!)*
