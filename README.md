@@ -3,7 +3,7 @@
 [![Course](https://img.shields.io/badge/Course-CS50%20SQL-blue)](https://cs50.harvard.edu/sql/) [![Language](https://img.shields.io/badge/Language-SQL-orange)]() [![Database](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
 
 ## Introduction
-This repository contains my solutions for the weekly problem sets and the final project for Harvard University's CS50 Introduction to Databases with SQL course. It demonstrates various concepts learned throughout the course, including database design, SQL querying, constraints, views, indexes, and triggers.
+This repository contains my solutions for the weekly problem sets and the link to the final project for Harvard University's CS50 SQL course. It demonstrates various concepts learned throughout the course, including database design, SQL querying, constraints, views, indexes, and triggers.
 
 ## Weekly Assignments 📒
 
