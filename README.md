@@ -4,4 +4,4 @@
 
 ### Problem Set - 0
 
-1. ![**Cyberchase**](../Week-0/1-cyberchase/")
+1. [**Cyberchase**](../Week-0/1-cyberchase/")
