@@ -76,7 +76,5 @@ The final project involved designing and implementing a database schema for a co
 **➡️ Find the full project details, schema, queries, ER Diagram, and video presentation in the [Final-Project repository](./Final-Project/).**
 *(Make sure to check out the `README.md` within the `Final-Project` repository for a detailed explanation!)*
 
-[![Status](https://img.shields.io/badge/Status-Completed-green)]() [![Features](https://img.shields.io/badge/Features-Views%2C%20Triggers%2C%20Indexes-success)]() [![Focus](https://img.shields.io/badge/Focus-Schema%20Design-blueviolet)]() [![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)]() [![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile-url/)
-
 ***By,***<br>
 ***Deva Manikanta Sala***
