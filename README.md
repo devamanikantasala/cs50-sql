@@ -73,7 +73,7 @@ The final project involved designing and implementing a database schema for a co
 * Optimized query performance with `VIEW`s, `INDEX`s, and `TRIGGER`s.	
 * Ensured all the relevant data movements are logged for further analysis.
 
-**➡️ Find the full project details, schema, queries, ER Diagram, and video presentation in the [Final-Project repository](./Final-Project/).**
+**➡️ Find the full project details, schema, queries, ER Diagram, and video presentation in the [Final-Project repository](https://github.com/devamanikantasala/cs50-sql-final-project.git).**
 *(Make sure to check out the `README.md` within the `Final-Project` repository for a detailed explanation!)*
 
 ***By,***<br>
